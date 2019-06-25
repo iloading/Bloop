@@ -1360,3 +1360,8 @@ border-radius: 25%;
 .pointer{
   cursor: pointer;
 }
+
+
+.titulosAccount{
+  font-size: 1.3rem;
+}
