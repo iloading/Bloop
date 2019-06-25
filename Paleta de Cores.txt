@@ -1,0 +1,8 @@
+detalhe dourado : 234,178,0 / #eab200
+
+background dark : 26,26,26 / #1A1A1A
+
+font : Comfortaa
+
+cor da fonte : #FFFFF #ProfJam
+

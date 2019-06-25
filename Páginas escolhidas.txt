@@ -1,0 +1,16 @@
+ (0) landing page
+ (1) Home + slide bar de categorias
+ (2) Página da Categoria
+ (3) Search
+ (4) Search Results
+ (5) Página da série (com os episódios todos)
+ (6) Página de filme/série (com o player)
+ (7) My Account
+ (8) Setings	
+ (9) Account Details (mudar email/pass/telemóvel)
+(10) About
+(11) Perguntas Frequentes e Contactos
+(12) Termos e Condições
+
+
+

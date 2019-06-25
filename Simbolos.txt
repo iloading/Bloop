@@ -1,0 +1,21 @@
+home - <i class="fas fa-home"></i>
+
+search - <i class="far fa-search"></i>
+
+user - <i class="fas fa-user"></i>
+
+copyright - <i class="far fa-copyright"></i>
+
+heart - <i class="far fa-heart"></i>
+heart (full) - <i class="fas fa-heart"></i>
+
+star - <i class="far fa-star"></i>
+star (full) - <i class="fas fa-star"></i>
+
+filter - <i class="fas fa-filter"></i>
+
+pencil - <i class="fas fa-pencil-alt"></i>
+
+question - <i class="fas fa-question"></i>
+
+share - <i class="fas fa-share-alt"></i>
