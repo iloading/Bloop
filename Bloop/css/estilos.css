@@ -323,13 +323,19 @@ nav {
   z-index: 1 !important;
 }
 /*Media Queries*/
+
+
+@media (min-width:423px) {
+  iframe.video{
+    min-height: 25vh !important;
+  }
+
+}
 @media (max-width:423px){
   .FontMobile{
     font-size: 0.9rem !important;
   }
-}
-@media (min-width:423px) {
-  iframe.video{
+    iframe.video{
     min-height: 25vh !important;
   }
 
