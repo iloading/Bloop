@@ -2,6 +2,7 @@
 * {
     font-family: 'Comfortaa', cursive !important;
 }
+
 .bg-preto {
     background-color: #1A1A1A !important;
 }
@@ -401,6 +402,9 @@ nav {
 
 
 @media (min-width:992px) {
+  .navmobile{
+    background-color: rgb(26,26,26) !important;
+  }
      iframe.video{
     min-height: 60vh !important;
   }
@@ -473,7 +477,9 @@ nav {
 @media (max-width:991.98px){
 /*NAVBAR*/
 /*fazer*/
-
+.navmobile{
+  background-color: rgb(35,35,35) !important;
+}
 .alturaMain{
   height: calc(100vh - 8.8rem) !important;
   overflow: scroll;
