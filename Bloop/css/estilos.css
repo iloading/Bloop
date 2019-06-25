@@ -329,13 +329,13 @@ nav {
   }
 }
 @media (min-width:423px) {
-  iframe{
+  iframe.video{
     min-height: 25vh !important;
   }
 
 }
 @media (min-width:576px) {
-  iframe{
+  iframe.video{
     min-height: 35vh !important;
   }
     #back{
@@ -377,7 +377,7 @@ nav {
     margin-right: auto !important;
     overflow-x: hidden;
   }
-    iframe{
+    iframe.video{
     min-height: 45vh !important;
   }
 }
@@ -395,7 +395,7 @@ nav {
 
 
 @media (min-width:992px) {
-     iframe{
+     iframe.video{
     min-height: 60vh !important;
   }
     .mainCentro {
