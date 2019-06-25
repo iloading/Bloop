@@ -1369,3 +1369,8 @@ border-radius: 25%;
 .close {
         text-shadow: 0 0px 0 !important;
 }
+
+button:focus{
+    outline: 0px dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+}
