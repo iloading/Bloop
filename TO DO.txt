@@ -1,4 +1,0 @@
-	Fade na cor dos botoes das setiings
-	fix no width da settings/faq/terms
-	linha slide mais pequena
-	Tamanho da seleção do dropdown nas settings (automatic)
